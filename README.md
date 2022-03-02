@@ -1,5 +1,15 @@
-### Hi there 👋
-
+# Hey! I'm Skylar! 👋
+------------------------------------
+### Who am I?
+I am a self taught programmer who enjoys learning new things and is in love with the problem solving process. I hope to one day be able to work at a company as a software developer but until then I will keep on learning new things and jut enjoying the process.
+------------------------------------
+### What am I learning right now?
+* Working through The Odin Project
+* Working through The Open Source Society University's Computer Science curriculum
+* Currently doing Introduction to Computer Science and Programming using Python course.
+------------------------------------
+Im an avid reader and a life long learner.
+Feel free to say hello! I dont bite.
 <!--
 **TheDemonicSky/TheDemonicSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
