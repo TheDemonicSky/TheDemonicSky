@@ -8,6 +8,9 @@ I am a self taught programmer who enjoys learning new things and is in love with
 * Working through The Open Source Society University's Computer Science curriculum
 * Currently doing Introduction to Computer Science and Programming using Python course.
 ------------------------------------
+## Courses I have completed
+*
+------------------------------------
 Im an avid reader and a life long learner.
 Feel free to say hello! I dont bite.
 <!--
