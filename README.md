@@ -7,6 +7,7 @@ I am a self taught programmer who enjoys learning new things and is in love with
 * Working through The Odin Project
 * Working through The Open Source Society University's Computer Science curriculum
 * Currently doing Introduction to Computer Science and Programming using Python course.
+* Python for Everyone
 ------------------------------------
 ## Courses I have completed
 *
